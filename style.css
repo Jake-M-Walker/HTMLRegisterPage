@@ -1,0 +1,27 @@
+body {
+    background-color: lightskyblue;
+}
+.SignUp{
+    background-color: white;
+    width: 20%;
+    height: 20%;
+    margin-top: 250px;
+    margin-left: 500px;
+    margin-bottom: 250px;
+    margin-right: 500px;
+    text-align: center;
+    border-color: lightgray;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    border-radius: 10px;
+    
+}
+.nav{
+background-color: white;
+text-align: right;
+}
+.button {
+    background-color: white;
+    text-align: center;
+   
+}
